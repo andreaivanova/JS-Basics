@@ -1,0 +1,6 @@
+function equalPairs(input){
+
+
+
+}
+equalPairs()
